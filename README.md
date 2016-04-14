@@ -1,3 +1,3 @@
 # brodoyouevenscience
 
-[http://brodoyoueven.science](http://brodoyoueven.science)
+This site was originally at [http://brodoyoueven.science](http://brodoyoueven.science).
